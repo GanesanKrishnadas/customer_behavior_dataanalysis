@@ -39,7 +39,9 @@ Insights
 Run Project
 
 https://github.com/GanesanKrishnadas/customer_behavior_dataanalysis.git
+
 pip install pandas sqlalchemy psycopg2
+
 python main.py
 
 •	Open .pbix file in Power BI to view dashboard
