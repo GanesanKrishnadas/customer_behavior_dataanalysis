@@ -4,21 +4,17 @@ Customer Shopping Behavior Analysis
 Overview
 
 Analyzed customer shopping behavior using Python → PostgreSQL → Power BI workflow.
-
 Goal: uncover insights about demographics, purchasing patterns, and product categories.
 ________________________________________
 Dataset
 
 •	customer_shopping_behavior.csv 
-
 •	Includes age, gender, purchase behavior, categories, review ratings, and transactions. 
 ________________________________________
 Tools
 
 •	Python (Pandas) – Data cleaning & EDA 
-
 •	PostgreSQL – SQL analysis 
-
 •	Power BI – Dashboard visualization 
 ________________________________________
 Key Steps
@@ -39,9 +35,7 @@ Insights
 Run Project
 
 https://github.com/GanesanKrishnadas/customer_behavior_dataanalysis.git
-
 pip install pandas sqlalchemy psycopg2
-
 python main.py
 
 •	Open .pbix file in Power BI to view dashboard
